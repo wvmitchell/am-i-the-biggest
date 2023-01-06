@@ -1,0 +1,19 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wvmitchell/am-i-the-biggest.git"
+  },
+  "author": "wvmitchell@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wvmitchell/am-i-the-biggest/issues"
+  },
+  "homepage": "https://github.com/wvmitchell/am-i-the-biggest#readme"
+}
